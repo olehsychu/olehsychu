@@ -1,7 +1,7 @@
 ### Привіт![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Мене звати Віктор Сич
 
 
-##   Зараз я працюю над [Проєктом "Моя пасіка"](http://pasikaua.com)
+##   Зараз я працюю над роєктом ["Моя пасіка"](http://pasikaua.com)
 ###  🖥️ Перегляньте моє портфоліо на [Моє портфоліо](http://svmatem.blogspot.com/)
 ### ✉️ Ви можете зв’язатися зі мною за адресою [vikps72@gmail.com](mailto:vikps72@gmail.com)
 
