@@ -23,3 +23,26 @@ generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" wid
 Вивчіть: масиви (списки), стек, черга, словники (HashMap), множини, сортування, пошук, рекурсія, складність алгоритмів (Big O)
 Практика Розв'язуйте задачі на: LeetCode, CodeWars, HackerRank
 Мета: 100-150 задач початкового рівня.
+## Етап 3. Git та GitHub (2-3 тижні)
+Вивчіть: Shell, git init, git add, git commit, git status, git push, git pull,git clone, git branch, git checkout, git merge
+Навчіться: створювати репозиторій, працювати з гілками, робити Pull Request, розв'язувати конфлікти
+Практика  Створіть GitHub та викладіть: калькулятор, ToDo програму, алгоритмічні задачі
+## Етап 4. Основи веброзробки (1-2 місяці)
+HTML  Вивчіть: теги, форми, таблиці, семантичну верстку
+CSS Вивчіть: селектори, Flexbox, Grid, адаптивність, JavaScript (базово), змінні, функції, DOM, події, fetch API
+Практика  Створіть: Лендінг, Портфоліо, Сайт-візитку
+## Етап 5. Бази даних (3-4 тижні) SQL
+Вивчіть: SQL, SELECT, INSERT, UPDATE, DELETE, JOIN, GROUP BY, ORDER BY, PostgreSQL
+Навчіться: створювати таблиці, зв'язки між таблицями, індекси, резервне копіювання
+Практика  Створіть БД для: магазину, бібліотеки, системи замовлень
+## Етап 6. Django (2-3 місяці)
+Вивчіть: Основи, встановлення Django, проєкт та додатки,URL, Views, Templates, База даних, Models, ORM, Migrations,
+Розширені теми, Authentication, Authorization, Forms, CBV, Middleware, Signals, Django Admin, API, Django REST Framework,
+JWT, CRUD API
+## Етап 7. Реальні проєкти (2 місяці)
+Проєкт №1 ToDo App
+Функції: реєстрація, авторизація,CRUD задач
+Проєкт №2  Інтернет-магазин
+Функції: каталог товарів, кошик, замовлення, профіль користувача
+Проєкт №3 Блог
+Функції: статті, коментарі, пошук, категорії
