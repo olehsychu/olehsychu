@@ -2,7 +2,7 @@
 
 
 ##   Currently I am working on ["My Apiary"](http://pasikaua.com)
-###  🖥️ Check out my portfolio [My Portfolio](http://svmatem.blogspot.com/)
+###  🖥️ Check out my portfolio [My Portfolio](https://compscience2026.blogspot.com/)
 ### ✉️ You can contact me at [oleh.sych.u@gmail.com](mailto:vikps72@gmail.com)
 
 # My Skills
