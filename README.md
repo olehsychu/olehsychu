@@ -1,8 +1,8 @@
-### Привіт![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Мене звати Віктор Сич
+### Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My Name is Oleh Sych
 
 
 ##   Currently I am working on ["My Apiary"](http://pasikaua.com)
-###  🖥️ Check out my portfolio [Моє портфоліо](http://svmatem.blogspot.com/)
+###  🖥️ Check out my portfolio [My Portfolio](http://svmatem.blogspot.com/)
 ### ✉️ You can contact me at [oleh.sych.u@gmail.com](mailto:vikps72@gmail.com)
 
 # My Skills
@@ -11,38 +11,39 @@
 generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a> <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a> <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Хмара Google" title="Хмара Google" width="36" height="36" /></a> <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a> <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a>
 </p>
 
-# План набуття навичок з професії "Computer Science"
-## Етап 1. Python Basics (1-2 місяці)
+# Career Skills Development Plan in "Computer Science"
+## Stage 1. Python Basics (1-2 місяці)
 ### Python
-Вивчити: змінні та типи даних, оператори, умови if/else, цикли for, while, функції, списки, словники, множини, кортежі, роботу з файлами, обробку помилок (try/except), модулі та пакети, 
-Практика
-Написати:
-калькулятор, конвертер валют, гру "Вгадай число", менеджер списку справ (ToDo), парсер текстового файлу
-Ресурси: Python Crash Course, Automate the Boring Stuff with Python, Документація Python
-## Етап 2. Алгоритми та структури даних (1 місяць)
-Вивчіть: масиви (списки), стек, черга, словники (HashMap), множини, сортування, пошук, рекурсія, складність алгоритмів (Big O)
-Практика Розв'язуйте задачі на: LeetCode, CodeWars, HackerRank
-Мета: 100-150 задач початкового рівня.
-## Етап 3. Git та GitHub (2-3 тижні)
-Вивчіть: Shell, git init, git add, git commit, git status, git push, git pull,git clone, git branch, git checkout, git merge
-Навчіться: створювати репозиторій, працювати з гілками, робити Pull Request, розв'язувати конфлікти
-Практика  Створіть GitHub та викладіть: калькулятор, ToDo програму, алгоритмічні задачі
-## Етап 4. Основи веброзробки (1-2 місяці)
-HTML  Вивчіть: теги, форми, таблиці, семантичну верстку
-CSS Вивчіть: селектори, Flexbox, Grid, адаптивність, JavaScript (базово), змінні, функції, DOM, події, fetch API
-Практика  Створіть: Лендінг, Портфоліо, Сайт-візитку
-## Етап 5. Бази даних (3-4 тижні) SQL
-Вивчіть: SQL, SELECT, INSERT, UPDATE, DELETE, JOIN, GROUP BY, ORDER BY, PostgreSQL
-Навчіться: створювати таблиці, зв'язки між таблицями, індекси, резервне копіювання
-Практика  Створіть БД для: магазину, бібліотеки, системи замовлень
+Learn: variables and data types, operators, if/else conditions, for and while loops, functions, lists, dictionaries, sets, tuples, file handling, error handling (try/except), modules, and packages.
+Practice: Write a calculator, currency converter, number guessing game, To-Do list manager, and text file parser.
+
+Resources: Python Crash Course, Automate the Boring Stuff with Python, Python documentation.
+## Stage 2. Algorithms and Data Structures (1 month)
+Learn: arrays (lists), stacks, queues, dictionaries (HashMap), sets, sorting, searching, recursion, and algorithm complexity (Big O).
+
+Practice: Solve problems on LeetCode, Codewars, and HackerRank.
+
+Goal: Solve 100–150 beginner-level problems.
+## Stage 3. Git and GitHub (2-3 тижні)
+Learn: arrays (lists), stacks, queues, dictionaries (HashMap), sets, sorting, searching, recursion, and algorithm complexity (Big O).
+Practice: Solve problems on LeetCode, Codewars, and HackerRank.
+Goal: Solve 100–150 beginner-level problems.
+## Stage 4. Web Development Basics (1-2 місяці)
+HTML: Learn tags, forms, tables, and semantic HTML.
+CSS: Learn selectors, Flexbox, Grid, and responsive design.
+JavaScript (basics): Learn variables, functions, the DOM, events, and the Fetch API.
+Practice: Create a landing page, a portfolio, and a personal website.
+## Stage 5. Databases (3-4 тижні) SQL
+Learn: SQL, SELECT, INSERT, UPDATE, DELETE, JOIN, GROUP BY, ORDER BY, and PostgreSQL.
+Learn how to create tables, establish relationships between tables, use indexes, and perform backups.
+Practice: Create databases for a store, a library, and an order management system.
 ## Етап 6. Django (2-3 місяці)
-Вивчіть: Основи, встановлення Django, проєкт та додатки,URL, Views, Templates, База даних, Models, ORM, Migrations,
-Розширені теми, Authentication, Authorization, Forms, CBV, Middleware, Signals, Django Admin, API, Django REST Framework,
-JWT, CRUD API
-## Етап 7. Реальні проєкти (2 місяці)
-Проєкт №1 ToDo App
-Функції: реєстрація, авторизація,CRUD задач
-Проєкт №2  Інтернет-магазин
-Функції: каталог товарів, кошик, замовлення, профіль користувача
-Проєкт №3 Блог
-Функції: статті, коментарі, пошук, категорії
+Learn the basics of Django, installing Django, projects and applications, URLs, views, templates, databases, models, ORM, and migrations.
+Advanced topics: Authentication, authorization, forms, CBVs, middleware, signals, Django Admin, APIs, Django REST Framework, JWT, and CRUD APIs.
+## Stage 7. Real-World Projects(2 місяці)
+Project #1: To-Do App
+Features: registration, authentication, and CRUD operations for tasks.
+Project #2: Online Store
+Features: product catalog, shopping cart, orders, and user profile.
+Project #3: Blog
+Features: articles, comments, search, and categories.
